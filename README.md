@@ -1,59 +1,33 @@
-# Product Name
-> Short blurb about what your product does.
+# My Awesome Project
+Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-One to two paragraph statement about your product and what it does.
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-![](GIF OF PROJECT)
+![alt tag](http://placecorgi.com/1200/650)
 
-## Usage example
+## How It's Made:
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+**Tech used:** HTML, CSS, JavaScript, Framework of choice
+
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+
+## Optimizations
+*(optional)*
+
+You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+
+## Lessons Learned:
+
+No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
+
+**Placeholder:** https://github.com/devjonathanjones/placeholder
+
+**Placeholder:** https://github.com/devjonathanjones/placeholder
+
+**Placeholder:** https://github.com/devjonathanjones/placeholder
 
 
-## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
-
-```sh
-make install
-npm test
-```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
-## Meta
-
-Your Name – [@devJonJones](https://twitter.com/devJonJones) – devJonathanJones@gmail.com
-
-Distributed under the !!!XYZ!!! license. See ``LICENSE`` for more information.
-
-[https://github.com/devJonathanJones/!!!project!!!](https://github.com/devJonathanJones/)
-
-## Contributing
-
-1. Fork it (<https://github.com/devJonathanJones/!!!project!!!/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
